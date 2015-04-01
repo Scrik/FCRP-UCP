@@ -1,3 +1,20 @@
+<!-- 
+╔═══════════════════════════════════════════════════════════════════════════╗
+║ Release: Fort Carson Roleplay UCP                                         ║
+║ Version: 1.0                                                              ║
+║ File: index.php                                                           ║
+║ ------------------------------------------------------------------------- ║
+║ Author(s): Sirajuddin Asjad                                               ║
+║ Contact: sirabots@gmail.com                                               ║
+║ GitHub: https://github.com/sirajuddin97                                   ║
+║ ------------------------------------------------------------------------- ║
+║ License: Distributed under the Lesser General Public License (LGPL).      ║
+║ This program is distributed in the hope that it will be useful - WITHOUT  ║
+║ ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or     ║
+║ FITNESS FOR A PARTICULAR PURPOSE.                                         ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+-->
+
 <?php
 require("inc/preferences.php");
 ob_start();

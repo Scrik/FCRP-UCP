@@ -1,4 +1,5 @@
-<!-- 
+<?php
+/*
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║ Release: Fort Carson Roleplay UCP                                         ║
 ║ Version: 1.0                                                              ║
@@ -13,9 +14,8 @@
 ║ ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or     ║
 ║ FITNESS FOR A PARTICULAR PURPOSE.                                         ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
--->
+*/
 
-<?php
 require("inc/preferences.php");
 ob_start();
 session_start();
